@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/user-attachments/assets/f71b8877-5deb-4e49-aa54-2e75c5085729)
 # SpringAI Model Comparator
 A full-stack project comparing AI model responses (Llama 3 vs. DeepSeek-Coder) with Spring Boot and React
 
